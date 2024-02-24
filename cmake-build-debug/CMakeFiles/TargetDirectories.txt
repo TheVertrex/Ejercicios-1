@@ -1,0 +1,10 @@
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/MayorDeEdad.dir
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/NumeroParOImpar.dir
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/CalcularFactorialWhile.dir
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/NumerosImparesFor.dir
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/NumerosImparesWhile.dir
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/NombreDelDiaSwitch.dir
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/ElegirEjercicios.dir
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

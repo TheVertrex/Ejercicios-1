@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "C__",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CalcularFactorialWhile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CalcularFactorialWhile-Debug-61bf81e062b17aba2518.json",
+					"name" : "CalcularFactorialWhile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ElegirEjercicios::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ElegirEjercicios-Debug-7e3b271b01b9dc5323f2.json",
+					"name" : "ElegirEjercicios",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MayorDeEdad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MayorDeEdad-Debug-fa1f4025954382458ce5.json",
+					"name" : "MayorDeEdad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NombreDelDiaSwitch::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NombreDelDiaSwitch-Debug-72781dd71ab6abfef3e3.json",
+					"name" : "NombreDelDiaSwitch",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NumeroParOImpar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NumeroParOImpar-Debug-09a513628565f6bfbe3d.json",
+					"name" : "NumeroParOImpar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NumerosImparesFor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NumerosImparesFor-Debug-d09beaaf5047cb97fb30.json",
+					"name" : "NumerosImparesFor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "NumerosImparesWhile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-NumerosImparesWhile-Debug-3a1dba805c13a3e88542.json",
+					"name" : "NumerosImparesWhile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-f480de0a7e81ff7f484d.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/vertr/OneDrive/Escritorio/C++/cmake-build-debug",
+		"source" : "C:/Users/vertr/OneDrive/Escritorio/C++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

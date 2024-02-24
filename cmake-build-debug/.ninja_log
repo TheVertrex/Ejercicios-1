@@ -1,0 +1,14 @@
+# ninja log v5
+2	302	7304868585294994	build.ninja	a736af29d453dca
+6	889	7304851363875162	CMakeFiles/main.dir/main.cpp.obj	1c45e88631282748
+774	985	7304849620926304	MayorDeEdad.exe	beecd21b264286d4
+1	841	7304847996128842	CMakeFiles/C__.dir/main.cpp.obj	36a465babe8edd9d
+1	824	7304852499134177	CMakeFiles/NumeroParOImpar.dir/NumeroParOImpar.cpp.obj	f8859018de037637
+845	1044	7304847998089556	C__.exe	2929aed82ebf7ce3
+2	771	7304849618870793	CMakeFiles/MayorDeEdad.dir/MayorDeEdad.cpp.obj	567c4a99aaeb530
+890	1083	7304851365742156	main.exe	79e40b749bda356e
+825	1017	7304852500982317	NumeroParOImpar.exe	e323b72e56f81245
+1	298	7304869757694111	CMakeFiles/ElegirEjercicios.dir/ElegirEjercicios.cpp.obj	fa7d72c531774444
+298	382	7304869758488970	ElegirEjercicios.exe	1ba20c8e4d3d4989
+2	321	7304870728587227	CMakeFiles/NumeroParOImpar.dir/NumeroParOImpar.cpp.obj	f8859018de037637
+321	405	7304870729398578	NumeroParOImpar.exe	e323b72e56f81245
